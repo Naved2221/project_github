@@ -1,7 +1,13 @@
 # project_github
 #a ambiguous random project
 
-import requests#confined
+import requests
+
+
+
+
+
+
 
 def get_weather(city):
     api_key = 'YOUR_API_KEY'  # Replace with your OpenWeatherMap API key
