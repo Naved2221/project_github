@@ -41,3 +41,8 @@ def get_weather(city):
 # Example usage
 city_name = input("Enter city name: ")
 get_weather(city_name)
+
+
+
+testing by naved
+
